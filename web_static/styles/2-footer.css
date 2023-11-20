@@ -1,12 +1,11 @@
+/* FOOTER STYLES*/
 footer {
-
-    background-color: #00FF00; 
-    height: 60px; 
-    width: 100%;
-    position: fixed;  
-    display:flex;
-    flex-direction: column; 
-    justify-content: center; 
-    align-items: center;
-    bottom: 0;
+    height:60px;
+    width:100%;
+    background-color:green;
+    text-align:center;
+    vertical-align:middle;
+    line-height:60px;
+    position:fixed;
+    bottom:0px;
 }
